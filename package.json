@@ -1,5 +1,5 @@
 {
-  "name": "sp-css-loader",
+  "name": "css-loader",
   "version": "0.28.7",
   "author": "Tobias Koppers @sokra",
   "description": "css loader module for webpack",
